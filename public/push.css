@@ -1,0 +1,41 @@
+#goBack {
+    font-size: 40px;
+}
+
+input{
+    background-color: #DF0515;
+    border-color: white;
+    border-radius: 5px;
+    color:white;
+    border-style: dashed;
+    padding-left:10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+
+input::placeholder{
+    color:rgb(219, 219, 219);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+button{
+    color: white;
+    font-weight: 800;
+    background-color: transparent;
+    border-radius: 100px;
+    border-style: dashed;
+    border-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bigButton {
+    font-size: 36px;
+}
+
+button:hover{
+    background-color: white;
+    color:#DF0515;
+    border-color: #DF0515;
+}
+
