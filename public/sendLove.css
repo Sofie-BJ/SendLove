@@ -1,0 +1,38 @@
+button{
+    color: black;
+    font-weight: 800;
+    background-color: transparent;
+    border-radius: 100px;
+    border-style: dashed;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bigButton {
+    font-size: 36px;
+}
+
+#goBack {
+    font-size: 36px;
+    width: 320px;
+    height: 100px;
+    position: absolute;
+    left: 350px;
+    top: 705px;
+}
+
+#push {
+    font-size: 36px;
+    width: 220px;
+    height: 100px;
+    position: absolute;
+    top: 130px;
+}
+
+#blow {
+    font-size: 36px;
+    width: 220px;
+    height: 100px;
+    position: absolute;
+    top: 10px;
+}

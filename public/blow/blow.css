@@ -1,0 +1,33 @@
+button {
+    color: black;
+    font-weight: 800;
+    background-color: white;
+    border-radius: 100px;
+    border-style: dashed;
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    width: 320px;
+    height: 100px;
+}
+
+.bigButton {
+    font-size: 36px;
+}
+
+input{
+    background-color: white;
+    border-color: black;
+    border-radius: 5px;
+    color:black;
+    padding-left:10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+input::placeholder{
+    color:rgb(219, 219, 219);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 20px;
+}
